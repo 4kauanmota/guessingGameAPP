@@ -6,8 +6,10 @@
 ---
 
 # ✨ **Features**
-+ Create a goal
-+ Remove a goal
++ Choose a number
++ Help your phone to discover the number
++ Attempts track
++ Restart the game
 
 ---
 
