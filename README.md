@@ -1,4 +1,4 @@
-![Project Stars](https://img.shields.io/github/stars/4kauanmota/guessingGame-APP?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/guessingGameAPP?color=1e90ff)
+![Project Stars](https://img.shields.io/github/stars/4kauanmota/guessingGame-APP?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/guessingGame-APP?color=1e90ff)
 
 # 📄 **Informations**
 **This project was made by me for a challenge in a udemy course. The topic is about create a game to guess a number.**
